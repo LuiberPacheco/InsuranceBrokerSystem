@@ -11,7 +11,7 @@
 /**
  * MemberID duplicate checker handler class.
  */
-class Accounts_DuplicateMemberID_Handler *Se crea en la base de datos la clase
+class Accounts_DuplicateMemberID_Handler /*Se crea en la base de datos la clase*/
 {
 	/** @var array List of fields for verification */
 	const FIELDS = [
